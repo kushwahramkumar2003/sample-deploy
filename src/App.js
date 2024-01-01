@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Happy new year 2024!</p>
+        <p>Bye Bye 2023!</p>
       </header>
     </div>
   );
